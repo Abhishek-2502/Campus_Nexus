@@ -231,13 +231,13 @@ This relational schema outlines the primary keys, attributes, and foreign keys f
 
 ## Frontend Sample
 
-![](Frontend Images/1.png)
+![](Frontend_Images/1.png)
 
-![](Frontend Images/2.png)
+![](Frontend_Images/2.png)
 
-![](Frontend Images/3.png)
+![](Frontend_Images/3.png)
 
-![](Frontend Images/4.png)
+![](Frontend_Images/4.png)
 
 ## Contributors
 
