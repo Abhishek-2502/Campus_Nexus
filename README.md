@@ -217,27 +217,42 @@ The system uses a relational schema to organize data across different entities, 
 
 This relational schema outlines the primary keys, attributes, and foreign keys for each entity, ensuring well-structured and efficient data management across different functional modules of the student management system. 
 
+
 ## ER Diagram
 
 ![](Diagrams/ER.png)
+
+
 
 ## Use Case Diagram
 
 ![](Diagrams/Use_Case_Diagram.png)
 
+
+
 ## System Architecture
 
 ![](Diagrams/System_Architecture.jpeg)
+
+
 
 ## Frontend Sample
 
 ![](Frontend_Images/1.png)
 
+
+
 ![](Frontend_Images/2.png)
+
+
 
 ![](Frontend_Images/3.png)
 
+
+
 ![](Frontend_Images/4.png)
+
+
 
 ## Contributors
 
