@@ -17,7 +17,7 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 - [Use Case Diagram](#use-case-diagram)
 - [System Architecture](#system-architecture)
 - [Frontend Sample](#frontend-sample)
-- [Contributors](#contributers)
+- [Contributors](#contributors)
 
 
 ## Introduction
