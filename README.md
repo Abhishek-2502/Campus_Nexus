@@ -13,6 +13,12 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 - [Entities and Attributes](#entities-and-attributes)
 - [Relationships](#relationships)
 - [Relational Schema](#relational-schema)
+- [ER Diagram](#er-diagram)
+- [Use Case Diagram](#use-case-diagram)
+- [System Architecture](#system-architecture)
+- [Frontend Sample](#frontend-sample)
+- [Contributors](#contributers)
+
 
 ## Introduction
 
@@ -211,6 +217,32 @@ The system uses a relational schema to organize data across different entities, 
 
 This relational schema outlines the primary keys, attributes, and foreign keys for each entity, ensuring well-structured and efficient data management across different functional modules of the student management system. 
 
+## ER Diagram
 
+![](Diagrams/ER.png)
+
+## Use Case Diagram
+
+![](Diagrams/Use Case Diagram.png)
+
+## System Architecture
+
+![](Diagrams/System Architecture.jpeg)
+
+## Frontend Sample
+
+![](Frontend Images/1.png)
+
+![](Frontend Images/2.png)
+
+![](Frontend Images/3.png)
+
+![](Frontend Images/4.png)
+
+## Contributors
+
+- Abhishek Rajput
+- Aditya Raj
+- Arnav Jain
 
 
