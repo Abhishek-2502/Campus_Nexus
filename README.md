@@ -16,7 +16,7 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 
 ## Introduction
 
-In today’s expanding landscape, it is crucial to have a streamlined and comprehensive approach to managing administrative and academic functions. Our project introduces a Database Management System (DBMS) specifically designed to meet these requirements. The system offers a solution for student management by incorporating key functionalities such as fee management, hostel accommodation, student records, course administration, library management, timetable scheduling, faculty coordination, attendance tracking, and grade management.
+In today’s expanding landscape, it is crucial to have a streamlined and comprehensive approach to managing administrative and academic functions. Our project introduces a Database Management System (DBMS) specifically designed to meet these requirements. The system offers a solution for student management by incorporating key functionalities such as fee management, hostel accommodation, student records, course administration, branch management library management, timetable scheduling, faculty coordination, attendance tracking, and grade management.
 
 To build this software, we utilized Java and the NetBeans (IDE) for a robust and efficient development process. Our system integrates seamlessly with a MySQL database using JDBC, ensuring efficient data storage and retrieval. This technology stack supports the creation of a dynamic, secure, and highly functional platform that enhances the quality of education delivery and streamlines administrative processes.
 
@@ -139,9 +139,9 @@ The system includes the following modules:
         - `BranchID` 
         - `Branch Name`
 
-### Relationships
+## Relationships
 
-
+![](Diagrams/Relationships.png)
 
 ## Relational Schema
 
