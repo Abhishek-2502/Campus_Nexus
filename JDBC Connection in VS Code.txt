@@ -1,0 +1,14 @@
+1. Copy the Jar file to jdk Folder (Site: https://dbschema.com/jdbc-driver/mysql.html)
+   (C:\Program Files\Java\jdk-21\mysql-connector-j-8.3.0.jar) in my Case
+
+2. Go to Environment Varibables and Add New Variable called 'classpath' and Path of Jar file with ;.; at the end
+   (C:\Program Files\Java\jdk-21\mysql-connector-j-8.1.0.jar;.;)
+
+3. Go to CMD and type : javap com.mysql.jdbc.Driver
+   OUTPUT should be: Compiled from "Driver.java"
+public class com.mysql.jdbc.Driver extends com.mysql.cj.jdbc.Driver {
+  public com.mysql.jdbc.Driver() throws java.sql.SQLException;
+  static {};
+}
+
+
