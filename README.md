@@ -16,6 +16,7 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 - [ER Diagram](#er-diagram)
 - [Use Case Diagram](#use-case-diagram)
 - [System Architecture](#system-architecture)
+- [Technology Stack](#technology-stack)
 - [Frontend Sample](#frontend-sample)
 - [Contributors](#contributors)
 
@@ -236,7 +237,7 @@ This relational schema outlines the primary keys, attributes, and foreign keys f
 
 
 
-### Technology Stack
+## Technology Stack
 
 The Integrated Student Management System is built using a modern and efficient technology stack:
 
