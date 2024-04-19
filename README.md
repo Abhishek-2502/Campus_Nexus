@@ -236,6 +236,23 @@ This relational schema outlines the primary keys, attributes, and foreign keys f
 
 
 
+### Technology Stack
+
+The Integrated Student Management System is built using a modern and efficient technology stack:
+
+- **Java**: The primary programming language used for developing the software, known for its portability, robustness, and security.
+
+- **NetBeans IDE**: The development environment of choice, offering a range of tools and features to streamline the coding process and enhance productivity.
+
+- **MySQL**: The system utilizes MySQL as the database management system, providing reliable and efficient data storage and retrieval capabilities.
+
+- **JDBC**: Java Database Connectivity (JDBC) is used to seamlessly integrate the Java application with the MySQL database, enabling smooth and efficient data manipulation and access.
+
+This technology stack ensures a robust, dynamic, and secure system that supports the management of various aspects of student and faculty administration within educational institutions.
+
+
+
+
 ## Frontend Sample
 
 ![](Frontend_Images/1.png)
