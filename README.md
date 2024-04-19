@@ -227,7 +227,7 @@ This relational schema outlines the primary keys, attributes, and foreign keys f
 
 ## System Architecture
 
-![](Diagrams/System Architecture.jpeg)
+![](Diagrams/System_Architecture.jpeg)
 
 ## Frontend Sample
 
