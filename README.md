@@ -3,7 +3,7 @@
 
 Welcome to the Integrated Student Management System repository! This project streamlines administrative and academic operations within educational institutions, offering comprehensive solutions for managing various aspects of student and faculty administration.
 
-The software is developed using Java and the NetBeans IDE, and it integrates seamlessly with a MySQL database using JDBC. This technology stack ensures efficient data management and supports a dynamic, secure, and functional platform
+The software is developed using Java and the NetBeans IDE, and it integrates seamlessly with a MySQL database using JDBC. This technology stack ensures efficient data management and supports a dynamic, secure, and functional platform. Additionally, the system leverages Amazon Web Services (AWS) for cloud-based data storage, providing scalability, reliability, and easy accessibility, which enhances the overall efficiency and resilience of the platform.
 
 ## Table of Contents
 
@@ -25,7 +25,9 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 
 In today’s expanding landscape, it is crucial to have a streamlined and comprehensive approach to managing administrative and academic functions. Our project introduces a Database Management System (DBMS) specifically designed to meet these requirements. The system offers a solution for student management by incorporating key functionalities such as fee management, hostel accommodation, student records, course administration, branch management library management, timetable scheduling, faculty coordination, attendance tracking, and grade management.
 
-To build this software, we utilized Java and the NetBeans (IDE) for a robust and efficient development process. Our system integrates seamlessly with a MySQL database using JDBC, ensuring efficient data storage and retrieval. This technology stack supports the creation of a dynamic, secure, and highly functional platform that enhances the quality of education delivery and streamlines administrative processes.
+To build this software, we utilized Java and the NetBeans (IDE) for a robust and efficient development process. Our system integrates seamlessly with a MySQL database using JDBC, ensuring efficient data storage and retrieval. Additionally, we have leveraged Amazon Web Services (AWS) to provide cloud-based data storage.
+
+This technology stack supports the creation of a dynamic, secure, and highly functional platform that enhances the quality of education delivery and streamlines administrative processes. The inclusion of AWS adds significant benefits, including cloud scalability and resilience, which further enhance the overall efficiency and effectiveness of the system.
 
 ## Problem Statement
 
@@ -249,7 +251,9 @@ The Integrated Student Management System is built using a modern and efficient t
 
 - **JDBC**: Java Database Connectivity (JDBC) is used to seamlessly integrate the Java application with the MySQL database, enabling smooth and efficient data manipulation and access.
 
-This technology stack ensures a robust, dynamic, and secure system that supports the management of various aspects of student and faculty administration within educational institutions.
+- **AWS**: Amazon Web Services (AWS) is used to store data online, offering scalable and secure cloud storage solutions that enhance data accessibility and resilience.
+
+This technology stack ensures a robust, dynamic, and secure system that supports the management of various aspects of student and faculty administration within educational institutions. AWS also adds the benefit of cloud-based data storage, allowing for scalable, reliable, and accessible data management.
 
 
 
