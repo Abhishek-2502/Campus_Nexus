@@ -229,7 +229,7 @@ This relational schema outlines the primary keys, attributes, and foreign keys f
 
 ## Use Case Diagram
 
-![](Diagrams/Use_Case_Diagram.png)
+![](Diagrams/Use_Case_Diagram.jpeg)
 
 
 
