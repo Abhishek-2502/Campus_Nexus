@@ -279,8 +279,6 @@ This technology stack ensures a robust, dynamic, and secure system that supports
 ## Contributors
 
 - Abhishek Rajput
-- Aditya Raj
-- Archit Patil
 - Arnav Jain
 
 
