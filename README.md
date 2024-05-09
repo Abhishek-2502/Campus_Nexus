@@ -18,7 +18,6 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 - [System Architecture](#system-architecture)
 - [Technology Stack](#technology-stack)
 - [Frontend Sample](#frontend-sample)
-- [Contributors](#contributors)
 
 
 ## Introduction
