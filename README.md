@@ -276,9 +276,9 @@ This technology stack ensures a robust, dynamic, and secure system that supports
 
 
 
-## Contributors
+## Author
 
 - Abhishek Rajput
-- Arnav Jain
+
 
 
