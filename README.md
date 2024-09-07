@@ -18,6 +18,7 @@ The software is developed using Java and the NetBeans IDE, and it integrates sea
 - [System Architecture](#system-architecture)
 - [Technology Stack](#technology-stack)
 - [Frontend Sample](#frontend-sample)
+- [License](#license)
 - [Author](#author)
 
 
@@ -275,6 +276,9 @@ This technology stack ensures a robust, dynamic, and secure system that supports
 ![](Frontend_Images/4.png)
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
